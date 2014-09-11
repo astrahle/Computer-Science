@@ -1,5 +1,5 @@
 package com.bayviewglen.Statistician;
 
 public class Statistician { 
-// hi graeme
+// if i write something does anyone notice it 
 }
